@@ -1,15 +1,10 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Pragya%20Manna&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20with%20purpose&descAlignY=55&descSize=15" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=F78DA7&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;Full+Stack+Developer;Exploring+AI+%26+ML;Open-Source+Contributor" />
-
 </div>
-
 <br>
 
 ## 👋 About Me
-
 I'm a Computer Engineering student and full stack developer who enjoys turning ideas into clean, functional products — from the UI down to the backend logic that powers it. I care about writing code that's not just working, but readable and maintainable.
 
 - 🎯 Detail-oriented, with a habit of thinking through edge cases before they become bugs
@@ -21,7 +16,6 @@ I'm a Computer Engineering student and full stack developer who enjoys turning i
 <br>
 
 ## 🔭 Currently
-
 - Building full stack web projects with a focus on clean UI and solid backend architecture
 - Exploring how AI/ML can be integrated meaningfully into everyday applications
 - Contributing to and learning from open-source projects
@@ -30,15 +24,12 @@ I'm a Computer Engineering student and full stack developer who enjoys turning i
 <br>
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,firebase,git,github,vscode&theme=dark" />
 </div>
-
 <br>
 
 ## 🧭 My Journey
-
 ```text
 2023 ──● Started Computer Engineering
 2024 ──● Began full stack development
@@ -47,43 +38,28 @@ I'm a Computer Engineering student and full stack developer who enjoys turning i
         ⋮
 Future ──● Growing as a developer, one project at a time
 ```
-
 <br>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pragya-manna&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&width=500" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=pragya-manna&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&width=500" />
 <br>
-
-<img src="https://streak-stats.demolab.com?user=pragya-manna&theme=tokyonight&hide_border=true&width=500" />
-
+<img src="https://streak-stats.demolab.com?user=pragya-manna&theme=dark&hide_border=true&width=500" />
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya-manna&layout=compact&theme=tokyonight&hide_border=true&width=500" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya-manna&layout=compact&theme=dark&hide_border=true&width=500" />
 </div>
-
 <br>
 
 ## 🟩 Contribution Activity
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pragya-manna&theme=tokyo-night&hide_border=true&area=true" />
-
 <br>
 
 ## 🌐 Connect With Me
-
 <div align="center">
-
 <a href="https://github.com/pragya-manna"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/pragyamanna"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/PragyaManna"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-
 </div>
-
 <br>
 
 <div align="center">
@@ -91,5 +67,4 @@ Future ──● Growing as a developer, one project at a time
 > *"Learning, building, and improving — one commit at a time."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
 </div>
