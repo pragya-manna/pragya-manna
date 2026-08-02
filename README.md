@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/pragya-manna/pragya-manna/main/assets/banner.png"/>
+<img width="100%" height="400px" src="https://raw.githubusercontent.com/pragya-manna/pragya-manna/main/assets/banner.png"/>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1500&color=8B5CF6&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full+Stack+Developer;Building+useful+software;Open+Source+Contributor" />
 
