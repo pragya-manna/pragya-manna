@@ -1,8 +1,16 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Pragya%20Manna&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20with%20purpose&descAlignY=55&descSize=15" />
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=F78DA7&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;Full+Stack+Developer;Exploring+AI+%26+ML;Open-Source+Contributor" />
-</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/pragya-manna/pragya-manna/main/assets/banner.png"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1500&color=8B5CF6&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full+Stack+Developer;Building+useful+software;Open+Source+Contributor" />
+
 <br>
+
+<i>Building software that's simple, useful, and enjoyable to use.</i>
+
+</div>
 
 ## 👋 About Me
 I'm a Computer Engineering student and full stack developer who enjoys turning ideas into clean, functional products — from the UI down to the backend logic that powers it. I care about writing code that's not just working, but readable and maintainable.
