@@ -37,17 +37,6 @@ I'm a Computer Engineering student and full stack developer who enjoys turning i
 </div>
 <br>
 
-## 🧭 My Journey
-```text
-2023 ──● Started Computer Engineering
-2024 ──● Began full stack development
-2025 ──● Built and shipped end-to-end web applications
-2026 ──● Exploring AI integration & contributing to open source
-        ⋮
-Future ──● Growing as a developer, one project at a time
-```
-<br>
-
 ## 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pragya-manna&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&width=500" />
