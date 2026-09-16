@@ -13,7 +13,7 @@
 </div>
 
 ## 👋 About Me
-I'm a Computer Engineering student and full stack developer who enjoys turning ideas into clean, functional products — from the UI down to the backend logic that powers it. I care about writing code that's not just working, but readable and maintainable.
+I'm a Computer Science and Engineering (Data Science) student and full stack developer who enjoys turning ideas into clean, functional products — from the UI down to the backend logic that powers it. I care about writing code that's not just working, but readable and maintainable.
 
 - 🎯 Detail-oriented, with a habit of thinking through edge cases before they become bugs
 - 🧩 Comfortable moving between frontend and backend — I like seeing the full picture of a project
